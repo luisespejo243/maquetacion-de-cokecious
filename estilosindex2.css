@@ -1,0 +1,165 @@
+.contenedor{
+    height: 50px;
+    background-color:#f195b2;
+    
+    padding: 12px 0;
+    font-size: 16px;
+}
+
+.padin{
+    padding: 10px;
+}
+.hola{
+    margin-left: 40px;
+}
+
+.hola1{
+    margin-left: 25px;
+}
+
+.contenedor-two{
+    height: 100px;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.logo{
+    font-size: 40px;
+    color: #f195b2;
+    font-weight: 100px;
+}
+
+.casa{
+    margin-left: 100px;
+    font-weight: 50px;
+    font-size:18px;
+}
+
+.casa-two{
+    margin-left: 21px;
+    color: black;
+    font-size: 18px;
+    font-weight: 50px;
+
+
+}
+
+.contenedor-three{
+    height: 100vh;
+    width: 100%;
+
+}
+
+.contenedor-three img{
+    height: 100%;
+    width: 100%;
+}
+
+.contenedor-four{
+    height: 100vh;
+    width: 100%;
+    padding-top: 100px;
+}
+
+.boton{
+    background-color: #f195b2;
+    padding: 0.7rem;
+    border-radius: 5%;
+    margin-top: 30px;
+}
+
+.contenedor-five{
+    height: 100vh;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.tarjetas{
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+.tarjeta{
+    width: 260px;
+    height: 320px;
+    margin: 50px 15px;
+    position: relative;
+    background-color: #ffffff;
+}
+
+.tarjeta img{
+    width: 100%; 
+    height: 50%
+    
+}
+
+.precio{
+    
+    position: absolute;
+    top: 132px;
+    left:30px;
+    padding: 5px 30px;
+    background-color: #ffffff;
+    
+}
+
+.margen{
+    margin-top: 30px;
+}
+
+.butonn{
+    margin-top: 20px;
+    margin-left: 19px;
+    background-color: skyblue;
+    border-radius: 5px;
+    padding: 5px 13px;
+
+}
+
+.contenedor-six{
+    width: 100%;
+    height: 100vh;
+    border: 1px solid black;
+    
+}
+
+.altura{
+    height: 100vh;
+}
+
+
+.contenedor-slider{
+    height: 100%;
+    
+}
+
+.contenedor-seven{
+    background-color: #f195b2;
+    width: 100%;
+    height: 95vh;
+    color: #ffffff;
+}
+    
+.titulo-cont-seven{
+    margin: 80px 0;
+    
+
+}
+.contenedor-seven .parrafo{
+    color: #ffffff;
+    padding-top: 30px;
+}
+
+.contenedor-eight{
+    width: 100%;
+    height: 100vh;
+    background-color: #ffffff;
+}
+
+    
+.fila1{
+    margin-top: 50px;
+}
