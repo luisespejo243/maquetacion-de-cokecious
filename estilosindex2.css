@@ -6,15 +6,20 @@
     font-size: 16px;
 }
 
+.margenn{
+    margin-left: 100px;
+}
+
 .padin{
     padding: 10px;
 }
 .hola{
     margin-left: 40px;
+    
 }
 
 .hola1{
-    margin-left: 25px;
+    margin-left: 420px;
 }
 
 .contenedor-two{
@@ -30,15 +35,10 @@
     font-weight: 100px;
 }
 
-.casa{
-    margin-left: 100px;
-    font-weight: 50px;
-    font-size:18px;
-}
 
 .casa-two{
     margin-left: 21px;
-    color: black;
+    color: red
     font-size: 18px;
     font-weight: 50px;
 
@@ -54,21 +54,22 @@
 .contenedor-four{
 
     width: 100%;
-    padding-top: 100px;
-    padding bottom:100px ;
+    padding: 90px 0;
+    
 }
 
 .boton{
     background-color: #f195b2;
     padding: 0.7rem;
     border-radius: 5%;
-    margin-top: 30px;
+    margin: 30px 0;
 }
 
 .contenedor-five{
-    height: 100vh;
+    height: auto;
     width: 100%;
     background-color: aliceblue;
+    padding: 100px 0;
 }
 
 .tarjetas{
@@ -135,8 +136,9 @@
 .contenedor-seven{
     background-color: #f195b2;
     width: 100%;
-    height: 95vh;
+    height: auto;
     color: #ffffff;
+    padding-bottom: 100px;
 }
     
 .titulo-cont-seven{
@@ -153,6 +155,7 @@
     width: 100%;
     height: 100vh;
     background-color: #ffffff;
+    padding: 80px 0;
 }
 
     
@@ -172,3 +175,87 @@
 i{
     color: blanchedalmond;
 }
+
+.colunna-3{
+    background-color: #ffffff;
+}
+
+@media screen and (max-width:1200px){
+    
+
+    .hola{
+        margin: 0;
+    }
+
+    .hola1{
+        margin-left: 200px;
+    }
+
+
+
+
+}
+
+@media screen and (max-width:992px){
+    .hola1{
+        margin: 0;
+
+    }
+
+}
+
+@media screen and (max-width:768px){
+    .contenedor{
+        height: 90px;
+        
+    }
+
+    .separador{
+        margin-top: 15px;
+    }
+    .oculto{
+        display: none;
+    }
+   .precio{
+       position: absolute;
+       margin-left: 0;
+   }
+}
+
+@media screen and (max-width:576px){
+
+    .contenedor{
+        height: 90px;
+        
+    }
+    .oculto1{
+        display: none;
+    }
+
+    .precio{
+        margin-left: 15px;
+    }
+}
+
+@media screen and (max-width:393px){
+    .contenedor{
+        height: 120px;
+    }
+    .displaii1{
+        display: block;
+        margin-top: 10px;
+        margin-right: 45px;
+    }
+
+    .precio{
+        margin: auto;
+    }
+
+
+    
+
+    
+
+
+
+   
